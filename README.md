@@ -1,15 +1,6 @@
 <div align="center">
 💧 AquaGuardian
-A standalone, RTC-driven smart water-drinking reminder built on the ARM7 LPC2138
-![MCU](https://img.shields.io/badge/MCU-LPC2138%20(ARM7TDMI--S)-0091BD)
-![Language](https://img.shields.io/badge/language-Embedded%20C-00599C)
-![Toolchain](https://img.shields.io/badge/toolchain-Keil%20uVision%20%7C%20GCC-blue)
-![Simulation](https://img.shields.io/badge/simulation-Proteus-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Commits](https://img.shields.io/badge/commits-Conventional-FE5196)
-No phone. No app. No cloud. Just a small device that quietly keeps you hydrated.
-</div>
----
+
 📖 The Story in One Page
 This README is written to be read top to bottom. Each chapter answers the question the previous one raised.
 #	Chapter	The question it answers
