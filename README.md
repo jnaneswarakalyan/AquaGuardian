@@ -252,7 +252,7 @@ Switch      EINT0        countdown
 
 The supplied circuit diagram is included in the repository and should be kept with the project documentation.
 
-![AquaGuardian circuit diagram](docs/images/circuit_diagram.png)
+![AquaGuardian circuit diagram](Images/Circuit_diagram.jpg)
 
 **Figure 1 — Supplied AquaGuardian circuit / Proteus reference diagram.**
 
@@ -262,7 +262,7 @@ The supplied circuit diagram is included in the repository and should be kept wi
 
 The project documentation also contains a complete logical-flow illustration.
 
-![AquaGuardian logical flow](docs/images/logical_flow.png)
+![AquaGuardian logical flow](Images/logical_flow.jpg)
 
 **Figure 2 — Supplied AquaGuardian logical-flow diagram.**
 
