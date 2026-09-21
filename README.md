@@ -262,11 +262,12 @@ The supplied circuit diagram is included in the repository and should be kept wi
 
 The project documentation also contains a complete logical-flow illustration.
 
-![AquaGuardian logical flow](Images/logical_flow.jpg)
+![AquaGuardian logical flow](Images/Block_diagram.jpg)
 
 **Figure 2 — Supplied AquaGuardian logical-flow diagram.**
 
 > The supplied logical-flow graphic is useful as a system-design artifact. Some labels describe design intent that is broader than the current firmware implementation. For release documentation, the executable firmware remains the source of truth for actual behavior.
+![AquaGuardian logical flow](Images/logical_flow.jpg)
 
 ## 4.4 Hardware design principles
 
